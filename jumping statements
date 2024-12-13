@@ -1,0 +1,11 @@
+a='charan sai kalki'
+for i in a:
+    if i=="i":
+        break
+    print(i)
+
+a='charan sai kalki'
+for i in a:
+    if i=="i":
+        continue
+    print(i)
